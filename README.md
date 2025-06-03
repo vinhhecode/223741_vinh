@@ -1,1 +1,1 @@
-# 223741_vinh
+This repository is used for learning GitHub on web.
